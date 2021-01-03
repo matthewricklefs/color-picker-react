@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "color-picker-react",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "picker": "0.1.4",
